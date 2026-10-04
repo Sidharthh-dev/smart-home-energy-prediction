@@ -12,7 +12,7 @@ This project started as a four-member team project during my AICTE internship at
 - Columns: home_id, timestamp, device_id, device_type, room, status, power_watt, user_present, activity, indoor_temp, outdoor_temp, humidity, light_level, day_of_week, hour_of_day, price_kWh
 - No missing values
 - The CSV file is not included in this repository because of its size
-- Source: [Provided during the internship]
+- Source: [Provided during the internship training at Inspire Softech Solutions]
 
 ## What is done so far
 
